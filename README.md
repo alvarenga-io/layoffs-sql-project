@@ -1,1 +1,0 @@
-# layoffs-sql-project
