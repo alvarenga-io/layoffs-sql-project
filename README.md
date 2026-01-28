@@ -1,6 +1,6 @@
 # Layoffs Data Cleaning Project
 
-This project demonstrates a full SQL-based data cleaning pipeline applied to a layoffs dataset.
+This project demonstrates a SQL-based data cleaning pipeline applied to a layoffs dataset.
 
 ## Steps
 1. Create staging tables
@@ -16,3 +16,6 @@ This project demonstrates a full SQL-based data cleaning pipeline applied to a l
 
 ## Dataset
 Raw data is stored in `data/layoffs_raw.csv` and remains unchanged.
+
+## Next Steps
+- Create visualizations for the cleaned data
