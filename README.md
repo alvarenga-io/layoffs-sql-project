@@ -32,8 +32,8 @@ This project demonstrates a complete **end-to-end data pipeline** using MySQL. I
 ---
 
 ## 📊 Business Insights (Highlights)
-* **Peak Period:** Layoffs spiked significantly in **Q1 2023**.
-* **Top Industry:** The **Tech/Consumer** sector was the most affected by volume.
+* **Intensity of layoffs:** Vietnam suffered significant layoffs, with an average reduction of 84% per company.
+* **Top Industry:** The **Consumer** sector was the most affected by volume.
 * **Capital vs. Stability:** Even companies with billions in funding (Post-IPO) faced massive staff reductions.
 
 > 📝 **Check out the full [Insights Report](./04_business_questions/insights.md) for detailed queries and findings.**
